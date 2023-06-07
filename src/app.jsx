@@ -12,9 +12,16 @@ export function App() {
       <Suspense fallback={null}>
         <WindowControlsNav />
       </Suspense>
-      <section class="container" data-tauri-drag-region>
-        <h1>Welcome to Redacted!</h1>
-      </section>
+      <nav class="navbar">
+    <div class="navbar-logo">HEARTSENSE</div>
+    <div class="navbar-menu">
+      <a href="#" class="navbar-menu-item">Estado del Holter</a>
+      <a href="#" class="navbar-menu-item">Borrar SD</a>
+      <a href="#" class="navbar-menu-item">Iniciar Holter</a>
+      <a href="#" class="navbar-menu-item">Analizar Datos</a>
+      <i class="fas fa-question-circle help-icon" id="helpIcon"></i>
+    </div>
+  </nav>
       <WindowCreation />
       <footer data-tauri-drag-region />
     </>

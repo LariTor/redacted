@@ -1,1 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257"><defs><linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%"><stop offset="0%" stop-color="#41D1FF"></stop><stop offset="100%" stop-color="#BD34FE"></stop></linearGradient><linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%"><stop offset="0%" stop-color="#FFEA83"></stop><stop offset="8.333%" stop-color="#FFDD35"></stop><stop offset="100%" stop-color="#FFA800"></stop></linearGradient></defs><path fill="url(#IconifyId1813088fe1fbc01fb466)" d="M255.153 37.938L134.897 252.976c-2.483 4.44-8.862 4.466-11.382.048L.875 37.958c-2.746-4.814 1.371-10.646 6.827-9.67l120.385 21.517a6.537 6.537 0 0 0 2.322-.004l117.867-21.483c5.438-.991 9.574 4.796 6.877 9.62Z"></path><path fill="url(#IconifyId1813088fe1fbc01fb467)" d="M185.432.063L96.44 17.501a3.268 3.268 0 0 0-2.634 3.014l-5.474 92.456a3.268 3.268 0 0 0 3.997 3.378l24.777-5.718c2.318-.535 4.413 1.507 3.936 3.838l-7.361 36.047c-.495 2.426 1.782 4.5 4.151 3.78l15.304-4.649c2.372-.72 4.652 1.36 4.15 3.788l-11.698 56.621c-.732 3.542 3.979 5.473 5.943 2.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505 4.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z"></path></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="666.66669"
+   height="666.66669"
+   viewBox="0 0 666.66669 666.66669"
+   sodipodi:docname="logohsml}.ai"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1306">
+      <g
+         id="g1310"
+         transform="translate(-306.0986,-280.5298)">
+        <path
+           d="M 0,500 H 500 V 0 H 0 Z"
+           id="path1308" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.51362483"
+     inkscape:cx="-233.63356"
+     inkscape:cy="325.14004"
+     inkscape:window-width="1366"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,666.66667)">
+    <g
+       id="g4051"
+       transform="matrix(1.2539318,0,0,1.265117,-68.660004,-71.058345)">
+      <g
+         id="g312"
+         transform="matrix(2.9726569,0,0,3.1336498,419.89789,305.95963)"
+         clip-path="url(#clipPath1306)">
+        <path
+           d="m 0,0 c 0,16.612 -13.467,30.078 -30.079,30.078 -11.109,0 -20.811,-6.023 -26.02,-14.982 -5.208,8.959 -14.91,14.982 -26.02,14.982 -16.611,0 -30.078,-13.466 -30.078,-30.078 0,-34.852 56.098,-64.834 56.098,-64.834 0,0 56.099,29.982 56.099,64.834"
+           style="fill:#e34257;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path314" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:System-ui;-inkscape-font-specification:'System-ui, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88457;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="357.23282"
+         y="203.9894"
+         id="text2387"
+         transform="matrix(0.23742847,0.95840131,0.98073919,-0.25295314,0,0)"
+         inkscape:transform-center-x="-82.57533"
+         inkscape:transform-center-y="-14.636123"
+         inkscape:label="text2387"><tspan
+           sodipodi:role="line"
+           id="tspan2385"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:System-ui;-inkscape-font-specification:'System-ui, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88457;stroke-dasharray:none"
+           x="357.23282"
+           y="203.9894">HEARTSENSE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9954px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.30175;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="367.57944"
+         y="-250.96637"
+         id="text2387-6"
+         transform="matrix(1.0473045,0.01058678,0.00965104,-0.95473459,0,0)"
+         inkscape:transform-center-x="-45.971059"
+         inkscape:transform-center-y="87.77995"><tspan
+           sodipodi:role="line"
+           id="tspan2385-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9954px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF, @wght=900';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 900;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.30175;stroke-dasharray:none"
+           x="367.57944"
+           y="-250.96637">ML</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.2395;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 107.51917,239.24732 h 24.20127 l 4.48028,-27.77778 34.05019,69.89248 24.78213,-42.1147 27.18919,42.1147 19.71327,-69.89248 6.2724,27.77778 h 29.5699 l 23.29748,95.87814 0.37116,-123.65592 h 43.4588 l 18.67005,27.77778 h 36.11134"
+         id="path2922"
+         sodipodi:nodetypes="cccccccccccccc" />
+    </g>
+  </g>
+</svg>

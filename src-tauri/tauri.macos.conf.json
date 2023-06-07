@@ -6,7 +6,7 @@
         "decorations": true,
         "transparent": true,
         "titleBarStyle": "Overlay",
-        "hiddenTitle": true
+        "hiddenTitle": false
       }
     ]
   }

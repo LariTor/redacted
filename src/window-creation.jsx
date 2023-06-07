@@ -67,7 +67,7 @@ export function WindowCreation() {
   };
 
   return (
-    <section style={{ backgroundColor: `#00000000` }}>
+    <section style={{ backgroundColor: `#ffffffff` }}>
       {windows.map((colorWindow) => (
         <div
           class="color-container"
@@ -91,7 +91,7 @@ export function WindowCreation() {
         </div>
       ))}
       <button class="flat" onClick={createWindow}>
-        create
+
       </button>
     </section>
   );

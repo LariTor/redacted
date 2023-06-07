@@ -58,10 +58,10 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "redacted",
+        "title": "HeartSense Application - Demo",
         "width": 800,
         "center": true,
-        "decorations": false,
+        "decorations": true,
         "transparent": true
       }
     ]
